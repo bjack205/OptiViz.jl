@@ -1,0 +1,4 @@
+name = "OptiViz"
+uuid = "0534230f-6d98-4528-a553-7e012e34327a"
+authors = ["Brian <bjack205@gmail.com>"]
+version = "0.1.0"
