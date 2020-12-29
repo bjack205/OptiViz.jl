@@ -1,5 +1,7 @@
 module OptiViz
 
-greet() = print("Hello World!")
+using LinearAlgebra 
+using Makie
+include("newton.jl")
 
 end # module
